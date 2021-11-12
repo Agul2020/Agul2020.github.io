@@ -1,0 +1,42 @@
+hr {color:rgb(20, 133, 108);}
+p {text-indent:50px;}
+
+body {background-color:#b0c4de;}
+
+h1 {color:rgb(8, 5, 8);text-align:center;}
+
+.colnav {
+    position:relative;
+    margin: auto;
+    width: 20%;
+    border: 3px ;
+    padding: 10px;
+    overflow: auto; 
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(0, 86, 247);
+}
+.row{
+    clear:both;
+}
