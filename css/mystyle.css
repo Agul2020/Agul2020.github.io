@@ -40,3 +40,12 @@ li a:hover {
 .row{
     clear:both;
 }
+
+.list {
+    position:relative;
+    margin: auto;
+    width: 20%;
+    border: 30px ;
+    padding: 100px;
+    overflow: auto; 
+}
